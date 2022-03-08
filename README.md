@@ -8,6 +8,12 @@
 - 😄 Pronouns: she/her
 - 🪐 Where: from Brazil 
 
+<h3> <b> 🛠️ Linguagem que utilizo:</b></summary>
+  <br/> </h3>
+
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  </p>
+
 ### 🔗 Connect with me: 
 <a href="https://www.linkedin.com/in/m-caroline-souza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-caroline-souza" height="30" width="40" /></a>
 
