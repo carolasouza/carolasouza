@@ -8,10 +8,10 @@
 - 😄 Pronouns: she/her
 - 🪐 Where: from Brazil 
 
-<h3> <b> 🛠️ Language I use:</b></summary>
+<h3> <b> 🛠️ Some Languages and Tools I use:</b></summary>
   <br/> </h3>
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   </p>
 
 ### 🔗 Connect with me: 
