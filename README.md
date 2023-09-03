@@ -5,7 +5,6 @@
 
 - 🎲 I’m currently learning skills to work with Data Science/Data Analysis
 - 💻 I’m currently working on dashboards in Power BI and data visualizations using Python on PyCharm
-- 😄 Pronouns: she/her
 - 🪐 Where: from Brazil 
 
 <h3> <b> 🛠️ Some Languages and Tools I use:</b></summary>
